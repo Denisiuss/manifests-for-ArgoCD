@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: weather-app-container
-        image: denisiuss/weather_app:98
+        image: denisiuss/weather_argo:2be524b
         ports:
         - containerPort: 80
